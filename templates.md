@@ -140,7 +140,7 @@ Operator  | Description
 `@if()` | Opens `if` block
 `@elseif()` | Opens `elseif` block
 `@else` | Opens `else` block
-`@endif | Closes `if` block
+`@endif` | Closes `if` block
 `@unless()` | Opens an `if(! )` block
 `@endunless` | Closes @unless block
 `@for()` | Opens `for` block
